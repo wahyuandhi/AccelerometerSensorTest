@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AccelerometerSensorTest</string>
+    <string name="tvSumbuX">Sumbu X</string>
+    <string name="tvSumbuY">Sumbu Y</string>
+    <string name="tvSumbuZ">Sumbu Z</string>
 </resources>
